@@ -1,0 +1,10 @@
+Simulation complete.
+# ----------------------------------------------------
+# Summary:
+# Total Accesses = 1000002
+# Total Reads = 916972
+# Total Writes = 83030
+# Total Hits = 995896
+# Total Misses = 4106
+# Hit Ratio = 99.589401
+# Miss Ratio = 0.410599
